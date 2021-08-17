@@ -22,15 +22,31 @@ wireless networks, wireless communications and mobile computing.
 
 **Openings**: I’d like to work with both undergraduate and postgraduate students. You are welcome to contact me if you have the similar research interests.
 
-### Publications
+### Selected Publications
 
-#### Journal Papers
+•	Junmei Yao, Xiaolong Zheng, Ruitao Xie and Kaishun Wu, “Cross-Technology Communication for Heterogeneous Wireless Devices through Symbol-Level Energy Modulation”. **IEEE Transactions on Mobile Computing (TMC)**, DOI: 10.1109/TMC.2021.3065998. 
 
-tttt
+•	Junmei Yao, Xiaolong Zheng, Jun Xu and Kaishun Wu, “Cross-Technology Communication through Symbol-Level Energy Modulation for Commercial Wireless Networks”. Proc. of the IEEE International Conference on Pervasive Computing and Communications (**PERCOM**), Austin, Texas, USA, Mar. 23-27, 2020. 
 
-## Conference Papers
+•	Junmei Yao, Jun Xu, Sheng Luo, Lu Wang, Chao Yang, Kaishun Wu and Wei Lou, "Comprehensive Study on MIMO-related Interference Management in WLANs", **IEEE Communications Surveys & Tutorials**, 21(3), 2087-2110, THIRD QUARTER 2019.
 
-ttt
+•	Jun Xu, Junmei Yao, Lu Wang, Kaishun Wu, Lei Chen, and Wei Lou, “Revolution of mmWave Small Cell Network Management: From Reactive to Proactive”, **IEEE Wireless Communications Magazine (WCM)**, 25(4): 66 - 73, Sep. 2018.
+
+•	Junmei Yao, Wei Lou, Lu Wang and Kaishun Wu, “On Exploiting Concurrent Transmissions through Discernible Interference Cancellation”. **IEEE Transactions on Vehicular Technology (TVT)**, 67(10), 9370 – 9384, Oct. 2018.
+
+•	Jun Xu, Junmei Yao, Lu Wang, Zhong Ming, Kaishun Wu, and Lei Chen, “A Survey on Narrowband Internet of Things: Evolutions, Technologies and Issues”, **IEEE Internet of Things Journal (IOTJ)**. 5(3): 1449 - 1462, 2018-06.
+
+•	Chao Yang, Junmei Yao, Wei Lou, and Shengli Xie, “On Charging Scheduling Optimization for a Wirelessly Charged Electric Bus System”, **IEEE Transactions on Intelligent Transportation Systems (TITS)**. doi: 10.1109/TITS.2017.2740329.
+
+•	Junmei Yao, Wei Lou, Chao Yang and Kaishun Wu, “Efficient Interference-Aware Power Control for Wireless Networks”. **Elsevier Computer Networks Journal**, 136(1), 68-79, May 2018. 
+
+•	Tao Xiong, Junmei Yao, Jin Zhang and Wei Lou, “It Can Drain out Your Energy: An Energy-Saving Mechanism against Packet Overhearing in High Traffic Wireless LANs”. **IEEE Transactions on Mobile Computing (TMC). 16(7)**, 1911 - 1925, Jul. 2017.
+
+•	Chao Yang, Junmei Yao, Wei Lou, and Shengli Xie, “On Demand Response Management Performance Optimization for Microgrids under Imperfect Communication Constraints”, **IEEE Internet of Things Journal (IOTJ)**, vol. 4, no. 4, pp. 881-893, August 2017.
+
+•	Junmei Yao, Tao Xiong, Jin Zhang and Wei Lou, “On Eliminating the Exposed Terminal Problem Using Signature Detection”. **IEEE Transactions on Mobile Computing (TMC)**, 15(8), 2034-2047, Aug. 2016. 
+
+•	Junmei Yao, Tao Xiong, and Wei Lou, “Beyond the Limit: A Fast Tag Identification Protocol for RFID Systems”. **Elsevier on Pervasive and Mobile Computing**, 21:1-18, Aug. 2015.
 
 
 ### Grant
