@@ -1,16 +1,27 @@
 ## Junmei Yao
 
-Assistant Professor, College of Computer Science and Software Engineering, Shenzhen University
+Assistant Professor, College of Computer Science and Software Engineering, Shenzhen University.
 
+PhD (2016) in Computer Science, The Hong Kong Polytechnic University.
+
+M.E. (2005) in Communication and Information System, Harbin Institute of Technology.
+
+B.E. (2003) in Communication Engineering, Harbin Institute of Technology.
+ 
 Office: Room 2016, CSSE building, south campus of Shenzhen University, Shenzhen, China, 518060
 
-Email: yaojunmei AT szu.edu.cn
+Email: yaojunmei@szu.edu.cn
 
 You can use the [editor on GitHub](https://github.com/yaojunmei/yaojunmei.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Research Interests
+
+wireless networks, wireless communications and mobile computing.
+
+**Openings**: I’d like to work with both undergraduate and postgraduate students. You are welcome to contact me if you have the similar research interests.
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
