@@ -20,11 +20,11 @@ Wireless networks, wireless communications and mobile computing.
 
 ### Selected Publications
 
-•	**Junmei Yao**, Xiaolong Zheng, Ruitao Xie and Kaishun Wu, “Cross-Technology Communication for Heterogeneous Wireless Devices through Symbol-Level Energy Modulation”. **IEEE Transactions on Mobile Computing (TMC)**, DOI: 10.1109/TMC.2021.3065998. 
+•	**Junmei Yao**, Xiaolong Zheng, Ruitao Xie and Kaishun Wu, “Cross-Technology Communication for Heterogeneous Wireless Devices through Symbol-Level Energy Modulation”. **IEEE Transactions on Mobile Computing (TMC)**, DOI: 10.1109/TMC.2021.3065998. [[PDF]](https://github.com/yaojunmei/yaojunmei.github.io/blob/main/Cross-Technology%20Communication%20for%20Heterogeneous%20Wireless%20Devices%20through%20Symbol-Level%20Energy%20Modulation.pdf)
 
 •	**Junmei Yao**, Xiaolong Zheng, Jun Xu and Kaishun Wu, “Cross-Technology Communication through Symbol-Level Energy Modulation for Commercial Wireless Networks”. Proc. of the IEEE International Conference on Pervasive Computing and Communications (**PERCOM**), Austin, Texas, USA, Mar. 23-27, 2020. 
 
-•	**Junmei Yao**, Jun Xu, Sheng Luo, Lu Wang, Chao Yang, Kaishun Wu and Wei Lou, "Comprehensive Study on MIMO-related Interference Management in WLANs", **IEEE Communications Surveys & Tutorials**, 21(3), 2087-2110, THIRD QUARTER 2019. [PDF](https://github.com/yaojunmei/yaojunmei.github.io/blob/main/Comprehensive%20Study%20on%20MIMO-related%20Interference%20Management%20in%20WLANs.pdf)
+•	**Junmei Yao**, Jun Xu, Sheng Luo, Lu Wang, Chao Yang, Kaishun Wu and Wei Lou, "Comprehensive Study on MIMO-related Interference Management in WLANs", **IEEE Communications Surveys & Tutorials**, 21(3), 2087-2110, THIRD QUARTER 2019. [[PDF]](https://github.com/yaojunmei/yaojunmei.github.io/blob/main/Comprehensive%20Study%20on%20MIMO-related%20Interference%20Management%20in%20WLANs.pdf)
 
 •	Jun Xu, **Junmei Yao**, Lu Wang, Kaishun Wu, Lei Chen, and Wei Lou, “Revolution of mmWave Small Cell Network Management: From Reactive to Proactive”, **IEEE Wireless Communications Magazine (WCM)**, 25(4): 66 - 73, Sep. 2018.
 
